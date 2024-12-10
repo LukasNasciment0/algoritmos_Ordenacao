@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
 git commit -m "Commit automático: Adicionando mudanças iniciais"
-git push 
+git push -u origin master
